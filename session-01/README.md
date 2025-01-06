@@ -24,7 +24,7 @@ In this course, we will make use of the Unix shell (also known as "bash", or "th
 
 Good notes for the Unix shell (including some install/setup instructions) are available from the Carpentries:
 https://swcarpentry.github.io/shell-novice/
-Note that for Windows, I would suggest using their "For advanced users" instructions to install the Windows Subsystem or Linux (WSL).
+Note that for Windows, I would suggest using their "For advanced users" instructions to install the Windows Subsystem for Linux (WSL).
 
 ## Github
 
