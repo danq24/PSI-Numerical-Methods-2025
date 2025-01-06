@@ -7,6 +7,7 @@ Today, we will introduce and set up some of the tools and services we will use f
 - the Julia programming language
 - the Github file-versioning service
 - the Unix shell
+- a text editor
 
 Some of you may already have some of these things set up; please be patient with us, and try to help your fellow students get set up as well.
 
