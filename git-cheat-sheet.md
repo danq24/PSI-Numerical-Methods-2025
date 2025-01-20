@@ -148,6 +148,23 @@ The counterpart of `git push` is... you'll never guess... `git pull`, which pull
 
 If you work on more than one computer, this can be a convenient way to move versions of files between computers and make sure you don't lose any changes.
 
+To see the status of your directory,
+```
+git status
+```
+... but explaining everything it shows you is a bit out of scope here.
+
+To make git track a new file,
+```
+git add FILENAME
+```
+and then `git commit` etc.
+
+To see all the commits,
+```
+git log
+```
+
 ### "Handing in" your homework.
 
 We will ask you to send us the URL of your forked repository on Github.  Eg, mine would be `https://github.com/dstndstn/PSI-Numerical-Methods-2025`.
